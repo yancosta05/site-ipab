@@ -1,2 +1,2 @@
 # site-ipab
-Just a test to view IPAB's website.
+Just a test to view IPAB's (Instituto Plano e Ação Brasileiro) website.
